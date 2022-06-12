@@ -1,0 +1,6 @@
+Algoritmos: 
+	https://portugol-webstudio.cubos.io/ide
+	
+Git: 
+	https://git-scm.com/downloads
+	https://tortoisegit.org/download/
