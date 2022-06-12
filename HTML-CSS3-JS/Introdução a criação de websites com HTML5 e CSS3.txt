@@ -1,9 +1,67 @@
 HTML
 
-Criado por Tim Berners-Lee
+	Criado por Tim Berners-Lee
 
-HTML 1 1991
-HTML 2 1995
-HTML 3 1997
-HTML 4 1997
-HTML 5 2014
+	HTML 1 1991
+	HTML 2 1995
+	HTML 3 1997
+	HTML 4 1997
+	HTML 5 2014
+
+Elemento HTML
+
+É a base do html.
+
+Estrutura básica 
+
+<!DOCTYPE html> não é um elemento html - apenas informa ao navegador o tipo de documento
+<html>
+<head>
+<meta>
+<title>
+<body>
+
+Semântica
+
+<section> lista de artigos.
+
+<header> cabeçalho da página ou partes da página.
+
+<article> conteúdo relevante dentro da página - arquivo de um blog.
+
+<aside> biografia de um ator ou links relacionados - representado por uma barra lateral.
+
+<footer> rodapé de uma página ou parte de uma página.
+
+<h1>-<h6> não foram criados no html 5. Representam a importância de um título em uma página. Apenas um h1 por página. <h1> mais importante e o <h6> o menos.
+
+
+Textos e links
+
+	<h1> Título da página
+	<h2> Título de seção
+	<h3> Título de artigo
+	<p> Textos maiores e mais densos. representa um parágrafo. Além de texto, representa imagens, vídeos entre outros conteúdos.
+	<a>link</a> ancora - interliga vários conteúdos na web. Vários atributos. mas apenas dois: href (para onde está apontando) e target(indica como esse hiperlink será aberto). 
+	
+Tag img
+
+	Sem tag de fechamento
+	Dois atributos src (obrigatório) e alt (recomendado para melhor a acessibilidade - mostra um texto quando imagem não é carregada)
+	
+	Prática
+	
+	photo 100 x 100
+	site unsplash - photos for everyone
+	
+Tags li, ul e ol
+
+	Listas servem para agrupar uma coleção de itens (lista de ingredientes/contatos).
+	
+	<ul> ordem dos itens não é importante.
+	<ol> a ordem dos itens é importante (números, letras ou algarismos romanos).
+	<li> é um item da lista
+	
+	
+	
+	
