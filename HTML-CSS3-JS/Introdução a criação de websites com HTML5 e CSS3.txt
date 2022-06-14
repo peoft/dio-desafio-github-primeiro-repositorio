@@ -74,4 +74,61 @@ Introdução a CSS 3 (1996)
 	Classe precedida por um ponto.
 	ID é precedido por um hash e pode ser usado apenas uma vez na página.
 	
+	Navegador representa cada elemento html como uma caixa retangular (box model). Ela possui 4 áreas: margem, a borda, o padding e o conteúdo.
+	
+	As margens são os espaçamentos entre os elementos.
+	As bordas circundam o padding e o conteúdo e é possível alterar a aparência (largura e cor).
+	O padding é o espaçamento entre a borda e o conteúdo.
+	Contéudo pode ser um texto, uma imagem ou um vídeo.
+	
+Border
+	Largura: pixels, centímetros, milímetros.
+	Cor: blue, #0000ff...
+	Estilo: sólida, pontilhada, tracejada.
+	
+	
+Border-radius
+	Permite arredondar os cantos de um elemento.
+	Unidade: pixel e porcentagem.
+	Também possui top, right, bottom e left.
+	
+Estilizando textos
+
+	font-family: altera a fonte do texto (web ou instaladas). 
+	Fontes Web6-com encontram-se na maioria dos dispositivos (por ex.: verdana e arial).
+	
+	.post_title {
+		font-family: Verdana, Arial; // Caso a primeira não funcione, a segunda entra como backup.
+	}
+	
+	font-size: altera o tamanho do texto.
+	font-style: altera a aparência do texto (fonte possui o estilo?
+	font-weight: altera o peso do texto.
+	text-transform: alterna o texto entre maiúsculo e minúsculo.
+	text-decoration: usado para dar destaque a um texto.
+	
+Listas ordenadas e não ordenadas
+	Alterar o marcador desta lista: list-style-type;
+	list-style-image: propriedade adiciona uma imagem ao marcador;
+	
+Dimensão e alinhamento
+	Width (elemento) - pixel ou porcentagem
+	Height (elemento) - pixel ou porcentagem
+	
+	Max-width - referem-se ao máximo que os elementos podem ter; 
+	Max-height
+	
+	Margin - colocar espaçamento entre elementos (auto)
+	
+	Text align - alinhar textos (left, right, center e justify)
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
 	
