@@ -68,6 +68,8 @@ Parte 1
 		Se encarrega do alinhamento dos itens dentro do container de acordo com a direcao pretendida e tratar da distribuição de espacamento entre eles.
 		Obs.: caso seus itens estejam ocupando 100% de todo o container, ela nao se aplica.
 		
+		Objetivo: distribuir os itens do container de acordo com espaço interno ao longo do eixo principal.
+		
 		Variacoes
 			* flex-start: inicio do container;
 			* flex-end: final do container (de acordo com a sobra de espaco);
@@ -133,13 +135,9 @@ Parte 2 - Propriedades dos flex items
 			* center;
 			* stretch;
 			* baseline;
-			
-		
-		
-		
-		
-		
-
+	
 Projeto integrador
+
+	
 
 

@@ -1,0 +1,27 @@
+Operadores
+	Tipos de operadores
+	1) Aritmética
+		** exponencial
+		++ incrementar
+		-- decrementar
+	2) Atribuição
+		= ; x = y
+		+=; x += y		
+		*=; x *= y
+		/=;	x /= y	
+		%=; x %= y
+		
+	3) Comparação
+		== igual a
+		=== mesmo valor e mesmo tipo
+		!== valor e tipos diferentes
+		
+	4) Lógica
+		&& e lógico
+		|| ou lógico
+		! nao lógico
+		
+	5) Condicional
+		if ternario.
+		
+		

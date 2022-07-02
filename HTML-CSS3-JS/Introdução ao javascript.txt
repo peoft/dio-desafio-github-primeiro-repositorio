@@ -1,0 +1,52 @@
+História da linguagem
+
+	Linguagem interpretada
+	Baseada em protótipos
+	Multiparadigma (orientação a objetos, funcional e estruturada)
+	Web client-side
+	Padrão ECMAscript
+	
+Principais evoluçõesvs
+	Criado em 1995
+	ECMAscript 1 - 1997
+	ECMAscript 2
+	ECMAscript 3 (199 - Expressões regulares e try/catch)
+	ECMAscript 4
+	ECMAscript 5 (2009 - Suporte ao JSON, array, etc)
+	ECMAscript 6 (2015 - Orientação a objetos)
+	
+Aplicações na vida real
+
+	Web
+	Mobile
+	Smartwaches
+	Games
+	Internet of things
+	APIs
+	
+Manipulando um arquivo
+
+Javascript em uma página da web
+
+DOM
+	Document object model
+		Tudo que está presente na janela ou a estrutura dos elementos dentro da janela.
+		
+Frameworks e bibliotecas
+
+	1) VueJS
+	2) Angular
+	3) React (biblioteca)
+	4) jQuery
+	
+Mercado de trabalho (Pesquisa sobre o assunto)
+		moz://a
+		w3c
+		stackoverflow
+		youtube
+
+	
+	
+	
+	
+	
