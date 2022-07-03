@@ -1,0 +1,86 @@
+Atribuicao de valores
+	camel case someAwesomeVar (funcoes e variaveis)
+	snake case some_awesome_var 
+	kebab case some-awesome-var 
+	Pascal case SomeAwesomeVar
+	Upper Case Snake Case SOME_AWESOME_VAR (constantes)
+	
+Variaveis
+	Valores que podem ser modificados ao longo do codigo (var e let).
+	var e let sao usados em escopos diferentes.
+	Hoisting - atribuir um valor a variavel antes de declara-la (var).
+	Redeclaracao - usado apenas no var.
+	reatribuicao - var e let.
+	camelcase.
+	
+Constantes
+	Declarada em SNAKE_UPPER_CASE
+	Escopo de bloco
+	Nao faz hoisting
+	
+Convencoes em javascript
+melhores praticas em javascript
+
+Estrutura de dados
+	Tipagem dinamica e fraca.
+	Checar um tipo (typeof).
+	
+	Tipos primitivos
+		Nao possuem metodos dentro deles e escritos em letras minusculas: numbers, strings, boolean, null, undefined. 
+	
+	Tipos nao primitivos
+		Objects e arrays.
+		
+	Strings
+		Comumente utilizada para textos. Declarados entre aspas ou crases.
+		
+		Exemplo:
+		
+		const DIO = 'Digital Innovation One';
+		let firstName = 'Joao';
+		let lastName = 'Luiz';
+		
+		let fullName = `Nome Completo: ${firstName} ${lastName}`;
+		
+		Metodos importantes: concatenacao, propriedade length, iterabilidade, formatacao, index de letras.
+		
+	Numeros
+		Inteiros ou decimais.
+		
+	Booleans
+		True ou false.
+		
+	Arrays
+		Lista iterável de elementos.
+		Propriedades:First index, length, element, indexes.
+		
+	Objetos
+		Estrutura do tipo chave e valor.
+		
+		object.key ou object["key"].
+		
+	Empty, null e undefined
+		undefined, null e empty todos são diferentes de true.
+		
+	Atividades práticas
+		Palindromo: frase ou palavra que se pode ler, indeferentemente, da esquerda para a direita ou vice-versa.
+		
+	
+	
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
