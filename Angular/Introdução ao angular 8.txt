@@ -1,0 +1,29 @@
+package.json 
+	Constam as dependências da aplicação.
+	Scripts - como incializar a aplicação, adicionar mais recursos, etc.
+	
+angular.json
+	Constam as informações globais da aplicação. Configurar as aplicações globais e o arquivo que realiza a inicialização da aplicação;
+	assets - partes estáticas da aplicação (imagem,etc);
+	styles - estilos globais ou propagados para os componentes;
+	index - página inicial da aplicação; (angular - Single Page Application;
+	main - inicializar a aplicação;
+	node_modules - todas as dependências da aplicação;
+	
+pasta app do projeto
+	módulo - faz a leitura do componente pai (é o componente responsável por envelopar todos os componentes criados de maneira direta ou indireta).
+	index.html - através da tag app root todos os componentes são carregados. Faz referência ao componente pai (app-component) que é lido dentro do app-module.
+	
+Módulo
+	Limitador de contexto.
+	Angular mais recursos para trabalhar com html.
+	one-way data bind (colchetes) - EXIBIR
+	two-way data bind (colchetes + parenteses) EXIBIR E ALTERAR.
+	ngmodule - pertence ao módulo de formulários.
+	
+Criando componentes e construindo o projeto
+	
+	
+	
+	
+	

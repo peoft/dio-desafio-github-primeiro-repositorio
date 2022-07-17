@@ -1,0 +1,24 @@
+Paradigmas
+	Imperativo  
+		Foca em como resolver os problemas!
+		Orientação a objetos utiliza este paradigma.
+		
+	Declarativo
+		No que será feito!
+		
+Pilares da orientação a objetos
+	Abstração
+		
+OOJS
+	Javascript orientada a objetos
+	
+	Protótipos
+		São um esqueleto de um objeto.
+		
+	Classes
+		Não existem nativamente no javascript. Sintaxe para facilitar a escrita (syntatic sugar).
+		Sempre utilizamos objetos que tem prototipos.
+		
+		
+		
+		

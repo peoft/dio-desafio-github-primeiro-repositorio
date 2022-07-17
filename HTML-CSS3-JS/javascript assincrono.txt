@@ -1,0 +1,12 @@
+Assincronicidade
+	Algo que não ocorre ou não se efetiva ao mesmo tempo.
+	
+Promises
+	Objeto de processamento assincrono.
+	
+Async/await
+	Funcões assincronas precisam dessas duas palvras-chave.
+	
+Consumindo APIs
+	Método fetch - retorna uma promise.
+	

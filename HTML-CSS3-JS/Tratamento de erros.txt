@@ -1,0 +1,20 @@
+Tipos de erros
+	Objeto Error do EcmaScript
+		Composto por mensagem, nome, linha e callstack.	Erros no browser ou SO.
+	
+	DomException
+		Erros relacionados ao codigo executado em uma pagina da web.
+		
+Tratando erros
+	throw, try/catch e finally
+	
+Criando erros personalizados
+	Objeto Error
+		Todos os parametros sao opcionais.
+		filename e linenumber nao fazem parte do padrao ou seja nem todos os browsers aceitam (verificar em mozilla ou w3schools).
+		
+		
+	
+	
+	
+	

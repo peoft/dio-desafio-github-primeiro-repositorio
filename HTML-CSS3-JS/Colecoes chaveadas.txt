@@ -1,0 +1,29 @@
+Map
+	Estrutura 
+		Uma colecao de arrays no formato [chave, valor].
+		Pode ser iterado por um loop for...of.
+		
+	Metodos
+		Adicionar, ler e deletar (set, get e delete).
+		
+	Diferencas entre map e objects
+		Maps podem ter chaves de qualquer tipo.
+		Maps possuem a propriedade length.
+		Maps sao mais faceis de iterar.
+		Utilizado quando o valor das chaves e desconhecido.
+		Map tem os valores tem o mesmo tipo.
+
+Set
+	Estrutura
+		Sao estruturas que armazenam apenas valores unicos.
+	
+	Metodos
+		Adicionar, consultar e deletar (add, has e delete).
+		
+	Diferencas entre set vs arrays
+		Possui valores unicos;
+		Em vez da propriedade length, consulta-se o numero de registros pela propriedade size;
+		Nao possui os metodos map, filter, reduce, etc.
+		
+		
+	

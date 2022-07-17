@@ -1,0 +1,44 @@
+Estrutura
+	Palavara reservada function + nome + parametros
+	
+Tipos de funcao
+	Funcao anonima = funcoes que representam expressoes.
+	Funcao autoinvocavel = IIFE (Immediately Invoked Function Expression)
+	Callbacks = uma função passada como argumento para outra.
+	
+Parâmetros
+	Valores padrão
+	Objeto arguments
+		Uma coleção(array) com todos os parametros passados quando a funcao foi invocada.
+		
+Arrays e objetos
+	Spread: uma forma de lidar separadamente com os elementos de um array.
+	Rest: combina os argumentos em um array.
+	Object destructuring: entre chaves {}, podemos filtar apenas os dados que nos interessam em um objeto.
+	
+Loops 
+	if/else
+	switch/case
+	for
+	while e do...while
+	
+This
+	Manipulando seu valor:
+	
+Arrow functions
+	Equivalente a uma constante que representa uma funcao anonima.
+	Nao precisa usar o return quando possui apenas uma linha.
+	Apenas um parametro pode dispensar os parenteses.
+	Outras restricoes: usar para metodos funcoes comuns.
+	
+	
+	
+	
+		
+	
+	
+	
+		
+
+	
+	

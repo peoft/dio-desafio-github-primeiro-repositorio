@@ -1,0 +1,38 @@
+Metodos para manipular valores de um array.
+
+Método Map
+	Cria um novo array.
+	Realiza as operações em ordem (índice 0 até o último item).
+	
+	Sintaxe
+		Callback: função a ser executada em cada elemento.
+		thisArg(opcional): valor de this dentro da função de callback.
+		Não é preciso passar todos os argumentos do callback.
+		
+	Map vs foreach
+		Valor de retorno.
+		Considere se o array auxiliar é necessário (foreach).
+		
+Método Filter
+	Cria um novo array.
+	
+	Sintaxe
+		array.filter(callback, thisArg);
+		
+Método Reduce
+	Executa uma função em todos os elementos do array, retornando um valor único.
+	
+	Sintaxe
+		array.reduce(callback, initialValue)
+		
+		callback: função a ser executada a partir do acumulador.
+		initialValue: valor sobre o qual o retorno final irá atuar (opcional).
+		
+		Acummulator/prevValue: acumulador de todas as chamadas de callback.
+		currentvalue: elemento atual sendo acessado pela funcao.
+		
+		
+		
+	
+
+

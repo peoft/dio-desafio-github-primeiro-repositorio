@@ -1,0 +1,18 @@
+Dom
+	Document object model - é uma padrão de como acessar e modificar os elementos html de uma página.
+	
+Dom x Bom
+	Browser Object Model - Arvore de dependências dentro da janela.
+	
+Manipulando o DOM
+	Métodos
+	
+Trabalhando com estilos
+	Cada elemento tem varios atributos. Por exemplo, o atributo classlist contém a lista de classes.
+	
+Eventos
+	Qualquer tipo de ação que o usuário realiza sobre uma página.
+	Tipos de evento: eventos de mouse (mouseover, mouseout), eventos de click, eventos de atualização (change, load).
+	
+	Acionando eventos
+		Através da função addEventListener.

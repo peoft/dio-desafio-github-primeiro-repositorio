@@ -1,0 +1,39 @@
+Typescript
+	Camada de abstração do javascript - superset do javascript.
+	Adiciona features à linguagem original.
+	
+	Porquê?
+	
+	Adiciona definição estática de tipos:
+		- funcionalidades do código mais explícitas;
+		- maior segurança durante o desenvolvimento;
+		- detecta erros durante a compilação que só seriam percebidos durante a execução;
+		
+	Ajuda a desenvolver boas práticas de programação.
+	
+Porque usar TS?
+	Adiciona definição estática de tipos:
+		- funcionalidades do código mais explícitas;
+		- maior segurança durante o desenvolvimento;
+		- detecta erros durante a compilação que só seriam percebidos em execução;
+		
+	Ajuda a desenvolver boas práticas de programação.
+	
+Features do typescript
+	Projeto Node:
+		- nodejs.org/en/download;
+		- abrir a pasta do projeto com terminal: npm init;
+		- confirmar todas as configurações;
+	Typescript:
+		- npm install -g typescript;
+		- npm install typescript;7
+		
+	Repositório:
+		https://github.com/lira1705/mentoria-typescript;
+	
+Existe uma biblioteca para evitar os anys (slink ou algo assim)	
+
+Outros tipos: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+
+tsconfig.json 
+	- lib =  "lib": ["ES2020", "DOM"],   
